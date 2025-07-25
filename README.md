@@ -11,4 +11,18 @@ Predicting multiclass liver disease using machine learning with 91% accuracy and
 
 ✅ Provides deployment-ready scripts and notebooks
 
+📊 Performance
 
+✅ Accuracy: 91.06%
+
+✅ ROC-AUC: 96.19%
+
+✅ Best Model: Logistic Regression (interpretability + stability)
+
+🛠️ Tools Used
+
+✅ Python, Pandas, Numpy, Scikit-learn
+
+✅ Matplotlib, Seaborn for visualization
+
+✅ Jupyter/Colab for interactive workflows
